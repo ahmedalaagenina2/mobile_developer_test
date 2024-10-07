@@ -1,8 +1,8 @@
 # Mobile Developer Test - Recipes App
-## Development Notes
-```
+## Notes
+
 This project was developed in a single coding session due to time constraints. As a result, it may not reflect best practices for version control and regular code commits.
-```
+
 ## Table of Contents
 
 - [About](#about)
